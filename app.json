@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myapp",
-    "slug": "myapp",
+    "name": "Smart Agri",
+    "slug": "Smart Agri",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.SmartAgri"
     },
     "web": {
       "bundler": "metro",
